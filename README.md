@@ -1,15 +1,14 @@
-<!-- Header -->
+![Banner](https://raw.githubusercontent.com/Rock-Atikhom/Rock-Atikhom/main/banner.png)
+
 <div align="center">
 
-# Hi, I'm Atikhom Muhammadaree
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Atikhom+%F0%9F%91%8B;Data+Scientist+%7C+Analytics+Developer;Computer+Vision+Engineer;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-**Data Scientist | Computer Vision Engineer | Analytics Developer**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rockatikhom/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hummad.88wa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rock-Atikhom)
 
-Bangkok, Thailand
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atikhom%20Muhammadaree-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rockatikhom/)
-[![Email](https://img.shields.io/badge/Email-hummad.88wa%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hummad.88wa@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Rock-Atikhom?style=flat&logo=github&label=Follow)](https://github.com/Rock-Atikhom)
+![Profile Views](https://komarev.com/ghpvc/?username=Rock-Atikhom&color=3b82f6&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -17,47 +16,33 @@ Bangkok, Thailand
 
 ## About Me
 
-I am a Data Scientist with a background spanning analytics dashboards, machine learning, and real-time computer vision pipelines. I completed a 13-sprint Data Science Bootcamp covering the full analytical stack — from SQL and R through to Python, statistics, and machine learning — and I apply that foundation to practical engineering projects including CCTV vehicle tracking systems and restaurant operations analytics.
+I am a Data Scientist based in Bangkok, Thailand, with a background spanning analytics dashboards, machine learning, and real-time computer vision pipelines. I completed a 13-sprint Data Science Bootcamp covering the full analytical stack — from SQL and R through to Python, statistics, and ML — and I apply that foundation to practical engineering projects.
 
-My current focus is on building clean, testable data pipelines that connect edge hardware (Jetson Nano) with analytics dashboards, bridging real-world sensor data and business intelligence in one coherent system.
+My current focus is on building clean, testable data pipelines that bridge edge hardware (NVIDIA Jetson Nano) with Streamlit analytics dashboards, connecting real-world sensor data and business intelligence in one coherent system.
+
+- Data Science Bootcamp graduate (Batch 09) — 13 sprints
+- Built a real-time CCTV vehicle tracking and counting pipeline (YOLO + ByteTrack)
+- Built an interactive restaurant operations analytics dashboard (Streamlit + Plotly)
+- Interested in computer vision, operational analytics, and AI at the edge
 
 ---
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,r,mysql&theme=dark)](https://skillicons.dev)
 
-**Data & Analytics**
+### Data & Analytics
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+### Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark)](https://skillicons.dev)
 
-**Computer Vision & ML**
+</div>
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+**Additional tools:** Pandas, NumPy, Plotly, Streamlit, scikit-learn, Looker Studio, Google Sheets, YOLO, ByteTrack, ONNX, TensorRT, NVIDIA Jetson
 
 ---
 
@@ -65,9 +50,24 @@ My current focus is on building clean, testable data pipelines that connect edge
 
 <div align="center">
 
-![Atikhom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rock-Atikhom&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rock-Atikhom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rock-Atikhom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rock-Atikhom&layout=compact&theme=default&hide_border=true)
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rock-Atikhom&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rock-Atikhom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -75,16 +75,24 @@ My current focus is on building clean, testable data pipelines that connect edge
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [Restaurant Operations Analytics](https://github.com/Rock-Atikhom/test) | Interactive Streamlit dashboard for restaurant transaction data — sales performance, staffing, kitchen efficiency, and consumer behavior analysis | Python, Streamlit, Pandas, Plotly |
-| [CCTV Jetson CV](https://github.com/Rock-Atikhom/cctv-jetson-cv) | Real-time vehicle tracking and traffic counting pipeline deployable on NVIDIA Jetson Nano. Detects and counts vehicles crossing a virtual line with color classification and event logging | Python, OpenCV, YOLO, ByteTrack, RF-DETR |
-| [Data Science Bootcamp](https://github.com/Rock-Atikhom/Data_Science_Project) | 13-sprint portfolio covering the full data science stack from spreadsheets and SQL through to machine learning and dashboard development | Python, R, SQL, MySQL, Looker Studio |
+<div align="center">
+
+[![Restaurant Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Rock-Atikhom&repo=test&theme=tokyonight&hide_border=true)](https://github.com/Rock-Atikhom/test)
+[![CCTV Jetson CV](https://github-readme-stats.vercel.app/api/pin/?username=Rock-Atikhom&repo=cctv-jetson-cv&theme=tokyonight&hide_border=true)](https://github.com/Rock-Atikhom/cctv-jetson-cv)
+[![Data Science Bootcamp](https://github-readme-stats.vercel.app/api/pin/?username=Rock-Atikhom&repo=Data_Science_Project&theme=tokyonight&hide_border=true)](https://github.com/Rock-Atikhom/Data_Science_Project)
+
+</div>
 
 ---
 
 ## Contact
 
-- Email: [hummad.88wa@gmail.com](mailto:hummad.88wa@gmail.com)
-- LinkedIn: [linkedin.com/in/rockatikhom](https://www.linkedin.com/in/rockatikhom/)
-- GitHub: [github.com/Rock-Atikhom](https://github.com/Rock-Atikhom)
+<div align="center">
+
+| Channel | Link |
+|---|---|
+| Email | [hummad.88wa@gmail.com](mailto:hummad.88wa@gmail.com) |
+| LinkedIn | [linkedin.com/in/rockatikhom](https://www.linkedin.com/in/rockatikhom/) |
+| GitHub | [github.com/Rock-Atikhom](https://github.com/Rock-Atikhom) |
+
+</div>
