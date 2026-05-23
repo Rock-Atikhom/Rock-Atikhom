@@ -1,9 +1,13 @@
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20%F0%9F%91%8B&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=I%27m%20Rock%20%E2%80%94%20I%20build%20data%20things%20%F0%9F%90%8D%F0%9F%93%8A&descAlignY=62&descSize=18" width="100%"/>
-
 <!-- Banner -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rock-Atikhom/Rock-Atikhom/main/banner.png" width="90%" style="border-radius:12px"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h1>Hey there! 👋 I'm Rock</h1>
+  <p><strong>Data Scientist & Computer Vision Developer based in Bangkok, Thailand</strong></p>
 </div>
 
 <br/>
@@ -74,15 +78,15 @@
 ## 📈 My GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rock-Atikhom&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rock-Atikhom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rock-Atikhom&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rock-Atikhom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rock-Atikhom&theme=redical&hide_border=true&area=true&area_color=7c3aed" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rock-Atikhom&theme=tokyonight&hide_border=true&area=true&area_color=7c3aed" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -91,7 +95,7 @@
 
 | Project | What it does | Made with |
 |---|---|---|
-| 🍽️ [Restaurant Analytics](https://github.com/Rock-Atikhom/test) | Interactive dashboard — sales, staffing, kitchen, consumer trends | Streamlit · Plotly · Pandas |
+| 🍽️ [Restaurant Analytics](https://github.com/Rock-Atikhom/restaurant-analytics-dashboard) | Interactive dashboard — sales, staffing, kitchen, consumer trends | Streamlit · Plotly · Pandas |
 | 📷 [CCTV Jetson CV](https://github.com/Rock-Atikhom/cctv-jetson-cv) | Real-time vehicle tracker on Jetson Nano — counts vehicles crossing a virtual line, logs events to CSV | OpenCV · YOLO · ByteTrack |
 | 📚 [Data Science Bootcamp](https://github.com/Rock-Atikhom/Data_Science_Project) | 13-sprint journey from spreadsheets → SQL → Python → ML → Dashboards | Python · R · SQL · Looker Studio |
 
@@ -100,10 +104,5 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rock-Atikhom&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rock-Atikhom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" alt="GitHub Trophies"/>
 </div>
-
----
-
-<!-- Animated wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
