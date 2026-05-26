@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <h1>Hey there! 👋 I'm Rock</h1>
+  <h1>Hey there! I'm Atikhom Muhammadaree</h1>
   <p><strong>Data Scientist & Computer Vision Developer based in Bangkok, Thailand</strong></p>
 </div>
 
