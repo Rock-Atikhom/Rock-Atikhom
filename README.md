@@ -1,6 +1,5 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rock-Atikhom/Rock-Atikhom/main/banner.png" width="90%" style="border-radius:12px"/>
 </div>
 
 <br/>
