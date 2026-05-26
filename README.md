@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Hey there! I'm Atikhom Muhammadaree</h1>
-  <p><strong>Data Scientist & Computer Vision Developer based in Bangkok, Thailand</strong></p>
+  <p><strong>AI Engineer & Data Scientist based in Bangkok, Thailand</strong></p>
 </div>
 
 <br/>
