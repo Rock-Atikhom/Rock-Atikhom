@@ -98,10 +98,4 @@
 | 📷 [CCTV Jetson CV](https://github.com/Rock-Atikhom/cctv-jetson-cv) | Real-time vehicle tracker on Jetson Nano — counts vehicles crossing a virtual line, logs events to CSV | OpenCV · YOLO · ByteTrack |
 | 📚 [Data Science Bootcamp](https://github.com/Rock-Atikhom/Data_Science_Project) | 13-sprint journey from spreadsheets → SQL → Python → ML → Dashboards | Python · R · SQL · Looker Studio |
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rock-Atikhom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4" alt="GitHub Trophies"/>
 </div>
